@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<a href="https://github.com/scsven">
+  <img src="https://github-readme-stats.vercel.app/api?username=scsven&show_icons=true&theme=dracula" />
+</a>
+
 <!--
 **scsven/scsven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
