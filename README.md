@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-<a href="https://github.com/wxyucs">
-  <img src="https://github-readme-stats.vercel.app/api?username=wxyucs&show_icons=true&theme=dracula" />
+<a href="https://github.com/xiangyu1006">
+  <img src="https://github-readme-stats.vercel.app/api?username=xiangyu1006&show_icons=true&theme=dracula" />
 </a>
 
 <!--
-**wxyucs/wxyucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xiangyu1006/xiangyu1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
